@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Guilherme! 👋
+# Olá, sou o Guilherme! 👋
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (PUCRS)
 Estou trilhando meu caminho no mundo do desenvolvimento, com foco em criar soluções eficientes e aprender novas tecnologias todos os dias.
