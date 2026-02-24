@@ -1,4 +1,4 @@
-## Olá 😃
+
 # Olá, eu sou o Guilherme! 👋
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (PUCRS)
